@@ -1,4 +1,4 @@
-module github.com/Dev155/microservices-proto/golang/order
+module github.com/Dev155/grpc-microservice/golang/order
 
 go 1.23.0
 
